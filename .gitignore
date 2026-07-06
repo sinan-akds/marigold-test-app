@@ -1,0 +1,14 @@
+node_modules
+dist
+*.log
+*.local
+
+# Claude / Playwright artifacts
+.claude/
+.playwright-mcp
+
+# Editor
+.vscode
+.idea
+.DS_Store
+*.sw?
